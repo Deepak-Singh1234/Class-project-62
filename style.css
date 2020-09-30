@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+#welcome {
+    background: linear-gradient(#B5F7D5 0%, #003E1E 100%);
+}
+
+h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 100px;
+}
+
+.wetr {
+    height: 10px;
+    background-color: darkblue;
+    width: 100px;
+    margin: 8px auto;
+}
+#mycarousel{
+    background-color: darkgreen;
+}
+
+#mycarousel img{
+    height: 700px;
+    margin-top: 20px;
+}
+.carousel-inner p{
+    color: aquamarine;
+    font-family: fantasy;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
